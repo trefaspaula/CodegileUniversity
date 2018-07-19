@@ -1,0 +1,12 @@
+SECRETARY
+PopescuIoana
+MANAGER
+IachimRobert
+CEO
+MarcuTudor
+SECRETARY
+PavelSabina
+MANAGER
+TrefasPaula
+MANAGER
+IacobSilviu

@@ -1,0 +1,16 @@
+MONEY
+100 money 20.01.2018 PopescuIoana
+MONEY
+50 money 27.01.2018 PopescuIoana
+MONEY
+50 money 01.02.2018 PavelSabina
+BEAUTYPRODUCTS
+10 products 01.03.2018 PavelSabina
+FREEDAYS
+2 days 01.07.2018 IacobSilviu
+FREEDAYS
+5 days 01.03.2018 TrefasPaula
+FREEDAYS
+2 days 01.04.2018 TrefasPaula
+FREEDAYS
+10 days 01.05.2018 PopescuIoana
