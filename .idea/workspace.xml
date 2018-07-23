@@ -2,103 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f002eae9-9bda-4cdc-9e17-317fa7b10619" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bonus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employees.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nume.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parenthesis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem1/NumberType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem1/ProblemOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem2/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem2/ProblemTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem3/ProblemThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem4/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/InvalidDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/SortEmploys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem1/SortMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem2/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem2/Verification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem3/FirstAndLastIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem3/OneByOneIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem3/TwoByTwoIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem1/Concert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem1/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/Pencil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/Stick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/TheObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/WritingObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem2/WritingUtensil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/BeautyProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Bonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/BonusEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/BonusType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/CEO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/FreeDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Institution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Secretary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/SortEmployees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/model/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/model/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/model/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/model/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/model/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/AccountType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/FixedDayAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/InvalidDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/InvalidDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/InvalidInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/InvalidSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem2/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem2/ServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day1/ServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem1/FirstThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem1/SecondThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem2/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTaskFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codegile/paula/week1/day1/ProblemOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,55 +37,109 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5821678">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="117">
-                  <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="127">
-                  <caret line="18" selection-start-line="18" selection-end-line="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/MyThread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="241">
-                  <caret line="29" column="39" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="29" selection-end-column="39" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTaskFirst.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTaskFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,20 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Engineer.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Director.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Manager.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Admin.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/SortEmployees.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Service.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/Main.java" />
-        <option value="$PROJECT_DIR$/employees.txt" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/problem2/service/Service.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Institution.java" />
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day2/problem1/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/MyException.java" />
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/InvalidDataException.java" />
@@ -235,8 +194,22 @@
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem2/Counter.java" />
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/MyThread.java" />
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/Service.java" />
-        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java" />
         <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTaskFirst.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test3.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test4.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem2/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Test.java" />
       </list>
     </option>
   </component>
@@ -284,42 +257,33 @@
               <item name="Applications" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paula" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Applications" type="b2602c69:ProjectViewProjectNode" />
               <item name="Applications" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paula" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Applications" type="b2602c69:ProjectViewProjectNode" />
               <item name="Applications" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paula" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paula" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
               <item name="problem2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paula" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="problem3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paula" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="problem3iulian" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,36 +324,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week3.day2.problem3.Main" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week3.day3.problem2.Main" />
       <module name="Applications" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegile.paula.week3.day2.problem3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week3.day2.problem2.Main" />
-      <module name="Applications" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codegile.paula.week3.day2.problem2.*" />
+          <option name="PATTERN" value="com.codegile.paula.week3.day3.problem2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week2.day2.problem1.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week3.day3.problem1.Main" />
       <module name="Applications" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegile.paula.week2.day2.problem1.*" />
+          <option name="PATTERN" value="com.codegile.paula.week3.day3.problem1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,24 +369,46 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Service (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week3.day2.problem3iulian.Service" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week4.day1.problem2.Test" />
       <module name="Applications" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegile.paula.week3.day2.problem3iulian.*" />
+          <option name="PATTERN" value="com.codegile.paula.week4.day1.problem2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week3.day2.problem1.Service" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week4.day1.problem1.Test2" />
       <module name="Applications" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegile.paula.week3.day2.problem1.*" />
+          <option name="PATTERN" value="com.codegile.paula.week4.day1.problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week4.day1.problem1.Test3" />
+      <module name="Applications" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegile.paula.week4.day1.problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegile.paula.week4.day1.problem1.Test4" />
+      <module name="Applications" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegile.paula.week4.day1.problem1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,19 +462,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Service" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Service (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test3" />
+      <item itemvalue="Application.Test4" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Service (1)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Service" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -521,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530627937002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First">
+      <created>1532008704953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532008704953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -537,11 +519,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17007874" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4503937" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16251831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22913617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -573,13 +555,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem1/ProblemOne.java</url>
-          <line>38</line>
+          <line>37</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/codegile/paula/week1/day1/problem4/Main.java</url>
-          <line>8</line>
+          <line>6</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -591,13 +573,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem1/Main.java</url>
-          <line>13</line>
+          <line>11</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/codegile/paula/week1/day3/problem3/Main.java</url>
-          <line>26</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -607,38 +589,8 @@
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem2/Main.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/Main.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/Main.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="55" />
+      <option name="time" value="58" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -709,97 +661,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/clients.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/AccountType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/CurrentAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/InvalidSold.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/FixedDayAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="36" column="75" lean-forward="true" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day1/problem1/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week1/day2/problem1/EmployeeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem1/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem2/MyKeyListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week2/day3/problem2/KeyListenerTester.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12592.19238/KeyEventDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Component.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-738">
@@ -825,6 +686,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -858,6 +723,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="162" column="9" lean-forward="true" selection-start-line="155" selection-start-column="8" selection-end-line="162" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -879,6 +747,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -886,6 +775,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -893,6 +785,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -900,6 +795,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -907,6 +805,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-313">
           <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -921,6 +822,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -963,6 +867,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -993,16 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -1027,20 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -1048,10 +931,171 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3iulian/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="39" selection-start-line="28" selection-start-column="16" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="144">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem3/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day2/problem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week3/day3/problem2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="33" column="117" selection-start-line="33" selection-start-column="117" selection-end-line="33" selection-end-column="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/MyTaskFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem1/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codegile/paula/week4/day1/problem2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
